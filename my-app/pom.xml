@@ -32,10 +32,12 @@
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
-      <scope>test</scope>
+      <scope>runtime</scope>
     </dependency>
     <!-- Optionally: parameterized tests support -->
    
+
+
 
   <build>
 <finalName>My-App</finalName>
